@@ -1,0 +1,23 @@
+# Git ignore file for project
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda / environment
+.env
+.venv/
+venv/
+
+# Project data and outputs
+data/raw/
+data/processed/
+embeddings/
+indexes/
+results/
+category_examples_test_only
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
