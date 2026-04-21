@@ -608,11 +608,10 @@ Team members:
 - Mahsa Shahbazi
 - Hien Tran
 
-Contributions were shared collaboratively throughout the project. We held weekly Zoom meetings and worked on the code together during those meetings. Report writing was also shared across weeks: in one week Mahsa prepared the weekly report, and in another week Hien prepared it. Mahsa was responsible for uploading the report files and pushing the project code updates to GitHub.
 
 ## Acknowledgements
 
-This project was completed as Case 3 of the GPT Lab capstone project.
+This project was completed as Case 3 of the GPT Lab capstone project from Tampere University (Fine-tuning Large Language Models)
 
 ## References
 
